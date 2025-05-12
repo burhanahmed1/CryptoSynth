@@ -39,7 +39,7 @@ The pipeline spans data collection, preprocessing, exploratory data analysis (ED
 ![SHAP Value Impact](images/shap-1.png)
 
 ### SHAP Model Final Output
-![SHAP Final Output](images/shap2.png)
+![SHAP Final Output](images/shap-2.png)
 
 ## 📊 Performance Metrics
 
