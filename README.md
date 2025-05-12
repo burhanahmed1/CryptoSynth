@@ -33,7 +33,7 @@ The pipeline spans data collection, preprocessing, exploratory data analysis (ED
 
 ## 🖼️ XGBoost Evaluation Metrics and XAI
 ### XGBoost Performance
-![XGBoost Metrics](images/xgboost-metrics.png)
+![XGBoost Metrics](images/xgb-metrics.png)
 
 ### SHAP Value Impact
 ![SHAP Value Impact](images/shap-1.png)
